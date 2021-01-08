@@ -61,12 +61,19 @@
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="Scripts\" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\PURCHASE_ORDER.sql" />
-    <Build Include="dbo\Tables\EMPLOYEE.sql" />
     <Build Include="dbo\Stored Procedures\SelectAllCustomers.sql" />
     <Build Include="dbo\Stored Procedures\Insertdat.sql" />
     <Build Include="dbo\Stored Procedures\Insertdats.sql" />
+    <Build Include="dbo\Tables\EMPLOYEE.sql" />
+    <Build Include="dbo\Tables\car.sql" />
+    <None Include="Scripts\ScriptsIgnoredOnImport.sql" />
+    <Build Include="View1.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Database.refactorlog" />
   </ItemGroup>
 </Project>

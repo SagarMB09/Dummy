@@ -1,0 +1,10 @@
+08-01-2021 13:22:02	This log contains information about the import operation of the script 'car_query.sql' into project 'Database' on computer 'MOUNTAIN' by user'admin.
+08-01-2021 13:22:02	Started importing file: C:\Users\admin\Documents\car_query.sql 
+08-01-2021 13:22:02	File name C:\Users\admin\Documents\car_query.sql (size: 32)
+08-01-2021 13:22:02	Parsing import script
+08-01-2021 13:22:02	Total number of batches in script: 1
+08-01-2021 13:22:02	Total number of statements in script: 0
+08-01-2021 13:22:02	The script was successfully imported into the project.
+08-01-2021 13:22:03	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+08-01-2021 13:22:03	A summary of the import was saved to the following location: C:\Users\admin\source\repos\Dummy\Database\Database\Import Script Logs\car_query_sql_20210108075202.log
+08-01-2021 13:22:03	Click Finish to continue...
